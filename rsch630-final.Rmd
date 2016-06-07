@@ -1,8 +1,8 @@
 ---
 title: "RSCH 630 - Research Methods"
-author: "Your Name"
+author: "Duffy R. Snuffy"
 subtitle: 'Final Exam'
-author: "your.name"
+author: "duffy.snuffy"
 date: "Due `r format(as.POSIXct(594000, origin = '2016-06-01'), '%R %x')`"
 output:
   pdf_document:

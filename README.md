@@ -8,7 +8,7 @@ Blake McCollum Changed THIS!
 ## Welcome to RSCH 630!
 
 ## Course Time and Location
-- MW 1300-1500 Bldg. 640 Rm. 232 (Computer Lab)
+- MW 1300-1500 in Bldg. 640, Rm. 232 (Computer Lab)
 
 ## Instructor and Office
 - Maj Jason Freels, Bldg. 640, Rm. 205B
